@@ -114,8 +114,8 @@
     <Content Include="js\mdb.min.js" />
     <Content Include="MyModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>MyModel.Context.cs</LastGenOutput>
       <DependentUpon>MyModel.edmx</DependentUpon>
+      <LastGenOutput>MyModel.Context.cs</LastGenOutput>
     </Content>
     <Content Include="MyModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
@@ -125,10 +125,21 @@
     <Content Include="resources\background.png" />
     <Content Include="resources\background2.png" />
     <Content Include="resources\background3.png" />
+    <Content Include="resources\bin-battery.png" />
+    <Content Include="resources\bin-clothing.png" />
+    <Content Include="resources\bin-electronics.png" />
+    <Content Include="resources\bin-glass.png" />
+    <Content Include="resources\bin-metal.png" />
+    <Content Include="resources\bin-paper.png" />
+    <Content Include="resources\bin-plastic.png" />
     <Content Include="resources\github.png" />
     <Content Include="resources\icon.ico" />
     <Content Include="resources\icon.png" />
+    <Content Include="resources\location.png" />
+    <Content Include="resources\pin-box.png" />
+    <Content Include="resources\pin.png" />
     <Content Include="resources\side-img.png" />
+    <Content Include="resources\type_battery.png" />
     <Content Include="resources\us-cansu.jpg" />
     <Content Include="resources\us-nazlıcan.jpg" />
     <Content Include="resources\us-ramazan.jpg" />
@@ -179,6 +190,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="js\bootstrap.bundle.js.map" />
+    <Content Include="js\bootstrap.js.map" />
+    <Content Include="js\jquery-3.4.1.min.map" />
+    <Content Include="js\jquery-3.4.1.slim.min.map" />
     <EntityDeploy Include="MyModel.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>MyModel.Designer.cs</LastGenOutput>
@@ -186,10 +201,6 @@
     <Content Include="MyModel.edmx.diagram">
       <DependentUpon>MyModel.edmx</DependentUpon>
     </Content>
-    <Content Include="js\bootstrap.bundle.js.map" />
-    <Content Include="js\bootstrap.js.map" />
-    <Content Include="js\jquery-3.4.1.min.map" />
-    <Content Include="js\jquery-3.4.1.slim.min.map" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

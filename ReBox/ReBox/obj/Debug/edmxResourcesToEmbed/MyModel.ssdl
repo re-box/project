@@ -5,8 +5,8 @@
       <PropertyRef Name="idlocation" />
     </Key>
     <Property Name="idlocation" Type="int" Nullable="false" />
-    <Property Name="latitude" Type="nvarchar" MaxLength="50" Nullable="false" />
-    <Property Name="longitude" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="latitude" Type="float" Nullable="false" />
+    <Property Name="longitude" Type="float" Nullable="false" />
     <Property Name="type" Type="nvarchar" MaxLength="50" />
     <Property Name="name" Type="nvarchar" MaxLength="50" />
   </EntityType>
