@@ -32,4 +32,4 @@ jobs:
         app-name: 'rebox'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_3a398de79b354506999c269db2127395 }}
-        package: ${{env.DOTNET_ROOT}}/myapp 
+        package: ${{env.DOTNET_ROOT}}/ReBox
