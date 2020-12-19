@@ -323,3 +323,15 @@ D:\_coding\GitHub\project\ReBox\ReBox\obj\Debug\ReBox.csproj.CoreCompileInputs.c
 D:\_coding\GitHub\project\ReBox\ReBox\obj\Debug\ReBox.csproj.CopyComplete
 D:\_coding\GitHub\project\ReBox\ReBox\obj\Debug\ReBox.dll
 D:\_coding\GitHub\project\ReBox\ReBox\obj\Debug\ReBox.pdb
+D:\_coding\GitHub\project\ReBox\ReBox\bin\MySqlConnector.dll
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Buffers.dll
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Memory.dll
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Numerics.Vectors.dll
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Threading.Tasks.Extensions.dll
+D:\_coding\GitHub\project\ReBox\ReBox\bin\MySqlConnector.xml
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Buffers.xml
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Memory.xml
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Numerics.Vectors.xml
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\_coding\GitHub\project\ReBox\ReBox\bin\System.Threading.Tasks.Extensions.xml
