@@ -9,13 +9,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/site.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
 </head>
 <body class="d-flex flex-column h-100">
     <header>
         <nav class="navbar fixed-top navbar-expand-md navbar-dark nav-colored">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.aspx">
                         <img class="logo" src="resources/icon.png" alt="main icon" />
                     </a>
                 </div>
@@ -98,8 +105,8 @@
                     </div>
                     <div class="col mb-2">
                         <div class="image mb-2">
-                            <img class="img-fluid rounded profile" src="resources/us-nazlıcan.jpg" alt="pic of Nazlıcan Çelebi" />
-                            <div class="overlay">
+                            <img class="img-fluid rounded profile" src="resources/us-nazlican.jpg" alt="pic of Nazlıcan Çelebi" />
+                            <div class="overlay"> 
                                 <p>Nazlıcan Çelebi</p>
                                 <a href="https://github.com/re-box" target="_top">
                                     <img class="img-fluid" src="resources/github.png" /></a>
